@@ -1,7 +1,9 @@
 # Detections of artefacts on PPG/ECG and ABP signals
+The objective of this project is the detection of artifacts in vital signals: ECG, heart rate signal, PPG, oxygen saturation signal and blood pressure signal. The language used is Python with Jupyter Notebook. 
+
+## Introduction
 
 
-##Introduction
-A Python-native package for reading, writing, processing, and plotting physiologic signal and annotation data. The core I/O functionality is based on the Waveform Database (WFDB) specifications.
 
-This package is heavily inspired by the original WFDB Software Package, and initially aimed to replicate many of its command-line APIs. However, the projects are independent, and there is no promise of consistency between the two, beyond each package adhering to the core specifications
+## Installation
+
